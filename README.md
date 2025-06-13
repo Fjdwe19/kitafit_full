@@ -98,7 +98,3 @@ Pastikan Anda sudah menginstal perangkat lunak berikut:
     Aplikasi akan terbuka di `http://localhost:3000` (atau port lain sesuai konfigurasi).
 
 ---
-
-## Kontributor
-
-Dibuat oleh **[Fjdwe19](https://github.com/Fjdwe19)**.
