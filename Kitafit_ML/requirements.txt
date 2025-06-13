@@ -1,0 +1,28 @@
+# =================================================================
+#               File Kebutuhan untuk Proyek KitaFit API
+# =================================================================
+#
+# Gunakan perintah berikut di terminal untuk menginstal semua pustaka:
+# pip install -r requirements.txt
+#
+# -----------------------------------------------------------------
+
+
+# Framework untuk membuat web server/API
+flask==2.3.2
+flask-cors==4.0.0  # Menangani masalah CORS
+
+# Untuk komputasi numerik
+numpy==1.24.3
+
+# Untuk manipulasi data
+pandas==2.0.3
+
+# Library utama untuk deep learning
+tensorflow==2.13.0
+
+# Untuk memuat objek preprocessor
+scikit-learn==1.3.0
+
+# Server WSGI untuk menjalankan aplikasi Flask di produksi
+gunicorn==21.2.0

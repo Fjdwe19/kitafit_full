@@ -1,0 +1,101 @@
+intent,text
+kitafit,Apa itu KitaFit?
+kitafit,KitaFit itu aplikasi apa?
+kitafit,Fungsi utama KitaFit?
+kitafit,Apa manfaat menggunakan KitaFit?
+kitafit,Untuk apa KitaFit dibuat?
+kitafit,Apakah KitaFit aplikasi kesehatan?
+kitafit,Apakah KitaFit hanya untuk jantung?
+kitafit,Apakah KitaFit tersedia di iOS?
+kitafit,Apakah KitaFit tersedia di Android?
+kitafit,Bagaimana KitaFit membantu kesehatan jantung?
+daftar,Bagaimana cara mendaftar di KitaFit?
+daftar,Langkah-langkah pendaftaran KitaFit?
+daftar,Daftar KitaFit itu susah tidak?
+daftar,Apa yang dibutuhkan untuk daftar KitaFit?
+daftar,Bisakah daftar pakai email?
+daftar,Bisakah daftar pakai nomor telepon?
+daftar,Apakah harus verifikasi email setelah daftar?
+daftar,"Saya lupa password, bagaimana cara reset?"
+daftar,Bagaimana jika saya tidak menerima email verifikasi?
+daftar,Apakah ada batas usia untuk mendaftar?
+fitur,Apa saja fitur yang ada di KitaFit?
+fitur,Fitur unggulan KitaFit apa saja?
+fitur,Jelaskan fitur deteksi risiko di KitaFit.
+fitur,Bagaimana fitur konsultasi bekerja?
+fitur,Apa itu rekomendasi gaya hidup di KitaFit?
+fitur,Apakah KitaFit bisa melacak aktivitas olahraga saya?
+fitur,Apakah ada fitur pengingat obat?
+fitur,Apakah KitaFit ada fitur monitoring tidur?
+fitur,Bisakah saya mencatat asupan makanan di KitaFit?
+fitur,Apakah ada fitur komunitas di KitaFit?
+biaya,Berapa biaya menggunakan KitaFit?
+biaya,Apakah KitaFit gratis?
+biaya,Harga langganan KitaFit premium berapa?
+biaya,Apakah ada trial untuk KitaFit premium?
+biaya,Metode pembayaran apa saja yang diterima?
+biaya,Bisakah saya batalkan langganan premium?
+biaya,Apa perbedaan fitur gratis dan premium?
+biaya,Apakah ada diskon untuk langganan tahunan?
+biaya,Bagaimana cara upgrade ke premium?
+biaya,Apakah biaya konsultasi termasuk dalam paket premium?
+riwayat,Bagaimana cara melihat riwayat kesehatan saya?
+riwayat,Di mana letak menu riwayat di KitaFit?
+riwayat,Bisakah saya mengunduh riwayat kesehatan?
+riwayat,Berapa lama data riwayat saya disimpan?
+riwayat,Bisakah saya menghapus data riwayat tertentu?
+riwayat,Apakah riwayat saya bisa dilihat orang lain?
+riwayat,Bagaimana cara melacak perubahan kondisi saya?
+riwayat,Apakah riwayat saya bisa dibagi dengan dokter?
+riwayat,Apakah riwayat aktivitas olahraga saya tercatat?
+riwayat,Bagaimana cara menambahkan data riwayat manual?
+hasil,Bagaimana hasil deteksi risiko disajikan?
+hasil,Apa arti skor risiko di KitaFit?
+hasil,Seberapa akurat hasil deteksi KitaFit?
+hasil,Apakah saya perlu ke dokter setelah dapat hasil deteksi?
+hasil,Bagaimana cara meningkatkan skor kesehatan saya?
+hasil,Bisakah saya mencetak hasil deteksi?
+hasil,Apakah hasil deteksi memperhitungkan riwayat keluarga?
+hasil,"Saya tidak mengerti hasil deteksi saya, bagaimana?"
+hasil,Berapa lama waktu yang dibutuhkan untuk mendapatkan hasil deteksi?
+hasil,Apakah hasil deteksi saya bersifat rahasia?
+reset_password,Bagaimana cara reset password KitaFit?
+reset_password,"Saya lupa kata sandi, tolong bantu."
+reset_password,Link untuk reset password di mana?
+reset_password,Email reset password tidak sampai.
+reset_password,Berapa lama link reset password berlaku?
+reset_password,Bisakah saya mengganti password tanpa reset?
+reset_password,"Saya tidak bisa login, padahal password benar."
+reset_password,Apakah ada batasan berapa kali bisa reset password?
+reset_password,Bagaimana cara membuat password yang aman?
+reset_password,Saya tidak punya akses ke email/nomor telepon terdaftar.
+konsultasi,Bagaimana cara konsultasi dengan dokter di KitaFit?
+konsultasi,Apakah saya bisa chat dengan ahli gizi?
+konsultasi,Jenis konsultasi apa saja yang tersedia?
+konsultasi,Berapa lama durasi konsultasi?
+konsultasi,Apakah konsultasi KitaFit 24 jam?
+konsultasi,Bagaimana cara menjadwalkan konsultasi?
+konsultasi,Bisakah saya memilih dokter spesialis jantung?
+konsultasi,Apakah data konsultasi saya aman?
+konsultasi,"Saya ingin konsultasi tentang diet jantung, bisakah?"
+konsultasi,Bagaimana jika koneksi terputus saat konsultasi video?
+privasi,Bagaimana KitaFit menjaga privasi data saya?
+privasi,Apakah data saya aman di KitaFit?
+privasi,KitaFit membagikan data saya ke pihak ketiga tidak?
+privasi,Apakah KitaFit patuh pada regulasi privasi data?
+privasi,Bagaimana cara menghapus akun dan data saya?
+privasi,Apakah data kesehatan saya terenkripsi?
+privasi,Siapa yang memiliki akses ke data saya?
+privasi,Apa kebijakan privasi KitaFit?
+privasi,Bagaimana cara mengelola izin data saya?
+privasi,Apakah KitaFit menggunakan data saya untuk iklan?
+artikel,Di mana saya bisa menemukan artikel kesehatan?
+artikel,Apa itu LifeNews di KitaFit?
+artikel,Topik artikel apa saja yang tersedia?
+artikel,Apakah artikel KitaFit ditulis oleh ahli?
+artikel,Bisakah saya menyimpan artikel untuk dibaca nanti?
+artikel,Bagaimana cara mencari artikel tertentu?
+artikel,Apakah ada video edukasi di KitaFit?
+artikel,Apakah LifeNews diperbarui secara berkala?
+artikel,"Saya ingin menyumbangkan artikel, bisakah?"
+artikel,Apakah ada kategori khusus untuk artikel jantung?

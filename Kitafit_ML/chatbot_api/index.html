@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot KitaFit - API Tester</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+        #chat-window { height: 400px; border: 1px solid #ccc; overflow-y: scroll; padding: 10px; margin-bottom: 10px; }
+        .user { text-align: right; color: blue; }
+        .bot { text-align: left; color: green; }
+        form { display: flex; }
+        input[type="text"] { flex-grow: 1; padding: 8px; }
+        button { padding: 8px 15px; margin-left: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Chatbot KitaFit - API Tester</h1>
+    <div id="chat-window"></div>
+    <form id="chat-form">
+        <input type="text" id="message-input" placeholder="Ketik pertanyaan Anda..." autocomplete="off">
+        <button type="submit">Kirim</button>
+    </form>
+
+    <script>
+        document.getElementById('chat-form').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const input = document.getElementById('message-input');
+            const userMessage = input.value;
+            if (!userMessage) return;
+
+            const chatWindow = document.getElementById('chat-window');
+            
+            // Tampilkan pesan pengguna
+            chatWindow.innerHTML += `<p class="user"><b>Anda:</b> ${userMessage}</p>`;
+
+            // Kirim request ke API
+            const response = await fetch('/chatbot', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: userMessage })
+            });
+
+            const data = await response.json();
+
+            // Tampilkan respons bot
+            chatWindow.innerHTML += `<p class="bot"><b>Bot:</b> ${data.bot_response}</p>`;
+
+            // Scroll ke bawah dan bersihkan input
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+            input.value = '';
+        });
+    </script>
+</body>
+</html>
